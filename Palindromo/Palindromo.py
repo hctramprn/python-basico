@@ -16,6 +16,6 @@ def run():
     else:
         print('No es palíndromo')
 
-
+#Condición usada por los programas en python para que se ejecuten
 if __name__ == '__main__':
     run()
